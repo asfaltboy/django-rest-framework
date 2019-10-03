@@ -5,7 +5,7 @@ source:
 
 # Authentication
 
-> Auth needs to be pluggable.
+> Auth needs to be plugg-able.
 >
 > &mdash; Jacob Kaplan-Moss, ["REST worst practices"][cite]
 
